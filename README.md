@@ -60,6 +60,7 @@ or
 ```sh
 Pyinstaller -F -i st.ico -n exec_file_name help_cc_excel.py
 ```
+> and then double-click to run the generated exe file in the dist directory
 
 ### File Directory Description
 
