@@ -2,11 +2,8 @@
 
 An app based on the Windows platform that helps CC (myGF) to automatically fill out excel forms
 
-<p align="center">
-  <a href="https://github.com/JimouChen/autofill-cc-excel">
-     <img src="https://github.com/JimouChen/autofill-cc-excel/tree/main/images/st.png" alt="Logo" width="80" height="80">
-  </a>
 
+<img src="https://img2022.cnblogs.com/blog/2134757/202209/2134757-20220904184105312-155851714.png" style="zoom:50%;" />
 <h3 align="center">Autofill</h3>
   <p align="center">
     Manpower-saving App, constantly improve and update App according to demand
