@@ -4,7 +4,7 @@ An app based on the Windows platform that helps CC (myGF) to automatically fill 
 
 <p align="center">
   <a href="https://github.com/JimouChen/autofill-cc-excel">
-     <img src="./images/st.png" alt="Logo" width="80" height="80">
+     <img src="https://github.com/JimouChen/autofill-cc-excel/tree/main/images/st.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Autofill</h3>
